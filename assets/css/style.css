@@ -1,0 +1,47 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-brand {
+    font-family: 'Anton';
+}
+
+header {
+    font-family: 'Anton';
+    background-image: url('../img/bg-section.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 10em;
+  }
+.descripcion {
+    font-family: 'Anton';   
+}
+
+.texto-descripcion {
+    font-family: 'Quicksand';
+}
+
+.encabezado-exp {
+    font-family: 'Anton'
+}
+
+.encabezado-trabajos {
+    font-family: 'Anton';   
+}
+
+.contacto {
+    font-family: 'Anton';
+}
+
+.footer {
+    text-decoration: none;
+}
+#carouselExampleIndicators {
+    scroll-padding-left: 40%;
+}
