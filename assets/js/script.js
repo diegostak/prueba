@@ -4,3 +4,6 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#iconolinkfb").attr("target","_blank");
 });
+$(document).ready(function(){
+    $("#iconolinkgh").attr("target","_blank");
+});
